@@ -1,0 +1,19 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#clock {
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: rgb(33, 33, 33);
+    color: white;
+    margin-top: 30vh;
+}
+h1{
+    text-align: center;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
