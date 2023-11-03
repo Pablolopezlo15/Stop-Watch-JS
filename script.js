@@ -41,7 +41,7 @@ function resetbottom() {
 }
 function secondsTimer() {
     if (run) {
-        if(seconds == 59){
+        if(seconds == 58){
             seconds = 1;
         }
         else{
