@@ -4,6 +4,10 @@
 #clock {
     display: flex;
     justify-content: center;
+    padding: 2%;
+}
+#clock h2{
+    margin: 0.2%;
 }
 body{
     background-color: rgb(33, 33, 33);
